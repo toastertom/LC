@@ -1,0 +1,19 @@
+html {
+  margin: 0px;
+}
+body {
+  background: black;
+  margin: 0px;
+  padding: 0px;
+  height: 1000px;
+}
+
+span.magenta{
+  color: #FC4477;
+}
+
+.shade-screen {
+  background: rgba(0,0,0, 0.6);
+  height: 100%;
+  width: 100%;
+}

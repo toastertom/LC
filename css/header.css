@@ -1,0 +1,29 @@
+header {
+  color: #fff;
+  padding: 5px;
+  position: fixed;
+  right: 0;
+  left: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header .logo h2{
+  margin: 5px 5px 5px 5px;
+}
+
+header .logo p{
+  margin: 5px 5px 5px 5px;
+}
+header ul li {
+  display: inline;
+}
+
+header ul {
+  margin-right: 10px;
+}
+
+header ul li {
+  margin: 0px 5px 0px 5px;
+}
