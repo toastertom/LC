@@ -7,20 +7,13 @@ body {
   margin: -10px 0px 0px 0px;
   padding: 0px;
   height: 1000px;
+  font-family: 'Roboto', sans-serif;
 }
 
 span.magenta{
   color: #FC4477;
 }
 
-.shade-screen {
-  background: rgba(0,0,0, 0.6);
-  height: 100%;
-  width: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
 
 .circle {
   width: 100px;
