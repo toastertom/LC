@@ -10,6 +10,7 @@
   display: flex;
   justify-content: center;
   flex-direction: column;
+  align-items: center;
   background: rgba(0,0,0, 0.6);
   height: 100%;
   width: 100%;
@@ -30,7 +31,7 @@
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  margin: 20px 0px;
+  margin: 40px 0px;
   border-bottom: 15px solid #45DFF1;
 }
 

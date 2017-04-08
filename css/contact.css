@@ -1,0 +1,27 @@
+.contact {
+  width: 100%;
+  background-image: url("../images/office.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.shade-screen3 {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  background: rgba(0,0,0, 0.6);
+  height: 100%;
+  width: 100%;
+}
+
+.contact form {
+  padding: 0px 80px;
+}
+
+input {
+  width: 200px;
+  height: 30px;
+  margin: 5px;
+}
